@@ -1,4 +1,4 @@
-# 🏔️ KoLLaVA
+# 🏔️ REACT로 보여주는 KoLLaVA
 [[Dataset]](https://huggingface.co/datasets/tabtoyou/KoLLaVA-Instruct-150k) [[Model]](https://huggingface.co/tabtoyou/KoLLaVA-KoVicuna-7b) [[Paper Review]](https://cocoa-t.tistory.com/entry/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-LLaVA-Large-Language-and-Vision-Assistant-Visual-Instruction-Tuning)
 
 - Korean Large Language and Vision Assistant (feat. [LLaVA](https://llava-vl.github.io/))
