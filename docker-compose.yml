@@ -1,0 +1,8 @@
+version: "3.4"
+
+services:
+  kollava:
+    image: kollava
+    build:
+      context: .
+      dockerfile: ./Dockerfile
