@@ -11,7 +11,7 @@ WORKDIR /app
 
 # Install pip requirements
 
-RUN apt-get -y update && apt-get -y install python3.10 \ pip
+RUN apt-get -y update && apt-get -y install python3.10 pip
 
 COPY pyproject.toml /app/pyproject.toml
 RUN pip install --upgrade pip
